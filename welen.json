@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "apple.com"
+      ],
+      "domain": [
+        "microsoft.com"
+      ],
+      "domain_keyword": [
+        "wogg"
+      ]
+    }
+  ]
+}
